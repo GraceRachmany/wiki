@@ -94,6 +94,7 @@
 * ​[BrightID](https://www.brightid.org/)​ – identity solution
 * [Evernym](https://www.evernym.com/) - identity solution
 * [Iden3](https://iden3.io/)​ – identity solution
+* [KYC3] (https://www.kyc3.com/) - identity solution 
 * [Jolocom](https://jolocom.io/) – identity solution
 * [Sovrin](https://sovrin.org/) - identity solution
 * [uPort](https://www.uport.me/)​ – identity solution
@@ -101,6 +102,7 @@
 ### Soft Governance
 
 * Betterthan
+* DAOleadership 
 * Enspiral
 * Percolab
 
